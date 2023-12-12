@@ -2,7 +2,7 @@
  * !import mongoose db here
  *  const mongoose = require('mongoose');
  * !import db connection 
- *  const db = require('./config/')
+ *  const db = require('../config/')
  * !craete a User Scheme
  *  -import a schema property from mongoose
  * const { schema } = mongoose;
